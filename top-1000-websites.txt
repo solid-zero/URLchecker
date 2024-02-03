@@ -1,5 +1,5 @@
-google.com
-facebook.com
+mozilla.org
+firefox.com
 youtube.com
 baidu.com
 yahoo.com
